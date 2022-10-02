@@ -42,7 +42,7 @@ This open-source project is an application which enables easy handling of data r
  Step 2: Run: git commit -m "" </br>
  Step 3: git push origin <BRANCH_NAME>. </br>
  Step 4: Go to the repository on your profile As soon as you get there, you are going to see a green ‘compare and create a pull request’ Click on it, and type your message, click on create pull request! </br>
- ```Thanks to: [@chisombiri](https://github.com/chisombiri)```
+ <code> Thanks to: [@chisombiri](https://github.com/chisombiri) </code>
 
 ### Brief Sitemap
 ### Landing Page
